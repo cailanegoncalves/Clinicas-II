@@ -59,8 +59,3 @@ Este projeto tem como objetivo facilitar a análise de documentos emitidos pelo 
 1. Antes de executar o script principal, certifique-se de rodar o script `prepara_base.py` para preparar os dados iniciais:
 
 2. A modelagem utilizada neste projeto foi baseada no arquivo `cade_clinicas_2.csv`, que contém os dados estruturados necessários para as análises.
----
-
-## Autor
-
-Gabriel e Danilo
